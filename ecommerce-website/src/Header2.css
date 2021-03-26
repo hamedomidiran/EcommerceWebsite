@@ -1,0 +1,26 @@
+.checkoutheader {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.checkout__logo {
+    width: 90px;
+    /* margin-top: 18px; */
+
+}
+
+.checkout__search {
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    flex: 1;
+    align-items: center;
+    border-radius: 30px;
+    margin-right: 50px;
+}

@@ -1,0 +1,58 @@
+.Sidebar {
+    width: 400px;
+    background-color: #2f4050;
+    position: sticky;
+    float: left;
+}
+
+.sidebar__logo {
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.profilePic {
+    font-size: 80px;
+}
+
+.navbar__option1 {
+    max-width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid gray;
+    border-width: 70%;
+}
+
+.navbar__option1LineOne, .navbar__option2LineOne {
+    font-size: large;
+}
+
+.navbar__option2 {
+    font-size: large;
+    max-width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 400px;
+}
+
+.navbar_optionBasket {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    max-width: 100%;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.navbar__basketCount {
+    margin-left: 10px;
+}
+
